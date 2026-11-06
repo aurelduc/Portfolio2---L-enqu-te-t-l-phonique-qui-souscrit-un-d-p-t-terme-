@@ -1,0 +1,2 @@
+# Portfolio2---L-enqu-te-t-l-phonique-qui-souscrit-un-d-p-t-terme-
+J'ai analysé une campagne d'appels téléphoniques d'une banque qui proposait un dépôt à terme (un placement bloqué pour une durée fixe) à ses clients. La question : quels profilsde clients disent oui, et à quel moment de l'année ? Les données sont déjà propres : 11 162lignes. J'utilise uniquement SQL puis Tableau pour créer mon dashboard.
