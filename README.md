@@ -52,6 +52,7 @@ Une fois le jeu de données `banque_propre.csv` exporté, les visualisations sui
 * **Taux par tranche d'âge (Graphique comparatif) :** 
   * Visualisation de la répartition de la conversion selon l'âge, confirmant l'attrait particulier des tranches d'âges extrêmes pour ce type de produit sécurisé.
 
+Voici le lien vers le dashboard de tableau : https://public.tableau.com/authoring/Portfolio2-Enqutesurlesrsultatsdunecampagnetlphonique/Dashboard2#1
 
 ##  5. Conception du Tableau de Dashboard
 * **Agencement ergonomique :** Organisation des graphiques en format paysage pour optimiser l'espace visuel sans saturer l'écran.
